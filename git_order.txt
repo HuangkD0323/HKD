@@ -1,0 +1,11 @@
+一、git提交代码的命令：
+git status
+git add.
+git commit -m "........"
+git push origin develop
+二、git连接远程仓库
+1.git remote add origin + 远程仓库的链接
+三、从远程仓库拉取文件
+1.git pull origin + 分支名
+四、查看仓库地址
+1、git remote -v
